@@ -1,0 +1,13 @@
+{
+  "name": "gridsome-static-site",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "gridsome": "^0.5.0"
+  }
+}
